@@ -60,13 +60,9 @@ Using **K-Means Clustering** and the Elbow Method, we identified four distinct r
 git clone https://github.com/bryap/give-me-some-credit
 ```
 
-```
-
 
 2. **Install dependencies:** ```bash
 pip install pandas scikit-learn matplotlib seaborn
-```
-
 ```
 
 
