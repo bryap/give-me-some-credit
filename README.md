@@ -56,12 +56,16 @@ Using **K-Means Clustering** and the Elbow Method, we identified four distinct r
 
 ## How to Use
 
-1. **Clone the repo:** ```bash
+1. **Clone the repo:** 
+```
+bash 
 git clone https://github.com/bryap/give-me-some-credit
 ```
 
 
-2. **Install dependencies:** ```bash
+2. **Install dependencies:** 
+```
+bash
 pip install pandas scikit-learn matplotlib seaborn
 ```
 
