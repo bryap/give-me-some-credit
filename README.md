@@ -74,4 +74,4 @@ pip install pandas scikit-learn matplotlib seaborn
 
 ---
 
-*For a full technical report and executive summary of this project, please visit https://bryap.github.io/datasci_credit.html.html.*
+*For a full technical report and executive summary of this project, please visit https://bryap.github.io/datasci_credit.html*
